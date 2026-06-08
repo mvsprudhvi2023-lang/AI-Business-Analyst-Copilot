@@ -1,2 +1,2 @@
 # AI-Business-Analyst-Copilot
-An AI-powered business analytics dashboard built with Python, Pandas, SQL, Streamlit, and Machine Learning.
+AI Business Analyst Copilot helps businesses analyze sales data through automated insights, SQL analytics, interactive dashboards, and machine learning predictions.
