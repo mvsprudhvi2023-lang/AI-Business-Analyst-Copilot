@@ -33,3 +33,20 @@ Region
 Category
 Sales
 Profit
+## Screenshots
+
+### Dashboard Overview
+
+![Dashboard](screenshots/Dashboard.png)
+
+### KPI Metrics
+
+![KPI Metrics](screenshots/kpi%20Metrics.png)
+
+### AI Business Insights
+
+![AI Business Insights](screenshots/AI%20Business%20Insights.png)
+
+### Sales Prediction
+
+![Sales Prediction](screenshots/Sales%20Prediction.png)
